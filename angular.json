@@ -40,10 +40,10 @@
                   "type": "anyComponentStyle",
                   "maximumWarning": "4kB",
                   "maximumError": "8kB"
-                }
-              ],
+              }
+            ],
               "outputHashing": "all",
-              "baseHref": "/protfolio/"
+              "baseHref": "/ArtPortfolio/"
             },
             "development": {
               "optimization": false,
